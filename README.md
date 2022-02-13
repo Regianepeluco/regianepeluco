@@ -4,10 +4,10 @@ Olá! Eu sou Regiane Peluco
 - 📫 Contate-me no e-mail: regiane.peluco@icloud.com
 - 😄 Pronouns: ela/dela
 
-<div style="display: flex>
+<div style="display: grid>
   <a href="https://github.com/Regianepeluco">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Regianepeluco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Regianepeluco&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="600em" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Regianepeluco&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   <div style="display: inline_block"><br>
